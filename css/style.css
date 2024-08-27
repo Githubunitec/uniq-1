@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root{
+	--color-azul:#2653e3;
+	--color-contenido : #808080;
+	--color-titulo :#000;
+	--color-negro :#000;
+	--letra-grande: 60px;
+}
+
+
+body{
+	font-family:"Poppins", sans-serif;
+	font-size: 14px;
+	color: var(--color-contenido);	
+	font-weight: 300;
+}
+
+header{
+	padding: 20px 0px;
+	border-bottom: 1px solid #ddd;	
+}
+
+header img{
+	width:70px;
+	
+}
+
+#hero h2 {
+	font-size: 30px;
+	Margin-bottom: 0px;
+	font-weight: 300;
+	
+}
+
+h1,h2,h3,h4,h5,h6{
+	color:#000;
+	
+	
+}
+
+#hero h1{
+	font-size:160px;
+	font-weight :800;
+	margin-top:-35px;
+	
+}
+#hero{
+	padding:40px
+	
+	
+}
+
+.margen-superior{
+	
+	margin-top:70px;
+	
+}
+
+#hero p{
+	font-size: 25px;
+	margin-top:40px;
+	
+}
+
+#hero .btn{
+	border-radius:0px;
+	border:2px solid #2653e3;
+	color:#2653e3;
+	font-weight: 700px;
+	padding:15px 50px;
+	
+}
+
+#hero .btn:hover{
+	
+	border-color:#000;
+	color:#000;
+	background-color: #fff
+	
+	
+	 
+}
+
+.section{
+	
+	padding:80px 0px;
+}
+
+
+#options{
+	background-color: #f2f2f2
+	
+}
+.bgcgray {
+		background-color: #f2f2f2
+}
+
+#options .targeta{
+	padding: 60px 30px;
+	background-color: #fff;
+	text-align: center; 
+	border-radius: 10px;
+}
+
+#options .targeta h4{
+	
+	font-weight:600; 
+	font-size: 20px;
+	margin-bottom: 30px ;
+}
+#options .targeta p{
+	
+	font-size:16px;
+	font-weight:300;
+	
+}
+
+#options .targeta i {
+	
+	color:#2653e3;
+	margin-bottom: 20px;
+	font-size: 40px;
+	
+	
+}
+
+
+.line{
+	border-width: 3px;
+	border-color: var(--color-azul);
+	opacity: 1 ;
+	width: 25px ;
+	margin-bottom: 20px;
+}
+
+
+#options .line {
+	border-width: 3px;
+	border-color: var(--color-azul);
+	opacity: 1 ;
+	width: 25px ;
+	margin: auto;
+	margin-bottom: 20px;
+}
+
+#options .targeta:hover{
+	background-color:var(--color-azul) ;
+	color:#fff
+	
+}
+
+#options .targeta:hover h4,
+#options .targeta:hover p,
+#options .targeta:hover i{
+	color:#fff
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
